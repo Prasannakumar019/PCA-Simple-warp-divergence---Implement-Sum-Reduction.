@@ -226,7 +226,7 @@ unrolling8
 ![image](https://github.com/sherwin-roger0/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/50732268/34a68745-1b91-4c79-9485-837245f48bff)
 
 unrolling16
-![image](https://github.com/sherwin-roger0/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/50732268/2d2e4a53-228e-4b79-9a86-7144797d24ed)
+![image](https://github.com/sherwin-roger0/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/50732268/0d11049b-ca14-4971-9ca3-7f48491ab108)
 
 ## Result:
 Implementation of the kernel reduceUnrolling16 is done and the performance of kernal reduceUnrolling16 is comapared with kernal reduceUnrolling8 using proper metrics and events with nvprof.
